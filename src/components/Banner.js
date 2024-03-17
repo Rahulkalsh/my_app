@@ -27,9 +27,9 @@ class Banner extends Component {
                         <a href="#"><img src="images/googleplay.png" alt="qr-img" width="" className="img-fluid" /></a>
                         <img src="images/qr.png" alt="qr-img" width="100px" className="img-fluid" />
                         <div className="social mt-4">
-                            <a href="#"><i className="fa fa-facebook"></i></a>
-                            <a href="#"><i className="fa fa-instagram"></i></a>
-                            <a href="#"><i className="fa fa-twitter"></i></a>
+                            <a href=""><i className="fa fa-facebook"></i></a>
+                            <a href=""><i className="fa fa-instagram"></i></a>
+                            <a href=""><i className="fa fa-twitter"></i></a>
                         </div>
                     </div>
                     <div className="col-lg-6 col-md-12 col-12 mt-2 mb-2">
